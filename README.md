@@ -16,7 +16,8 @@ Uygulamayı başlatmak ve çalıştırmak için aşağıdaki adımları takip ed
 
 ## Ekran Görüntüsü:
 ![image](https://github.com/Adl1coder/Atasozleri/assets/93915867/b99ef435-f1cb-429e-91c8-061bf1b92798)
-   ![image](https://github.com/Adl1coder/Atasozleri/assets/93915867/98b20d2c-362b-49d9-8079-319352f39718)
+   ![image](https://github.com/Adl1coder/Atasozleri/assets/93915867/69d38fbb-a207-4af1-8542-3504cffd8689)
+
 
 
 
