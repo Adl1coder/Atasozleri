@@ -1,6 +1,6 @@
 # Atasözleri Uygulaması
 
-Bu Kotlin tabanlı bir Atasözleri Uygulamasıdır. Bu uygulama, JSON formatındaki Atasözleri API'sini kullanarak kullanıcılara farklı atasözleri sunar. İleri ve geri tuşlarına basarak farklı atasözlerini görüntüleyebilirsiniz.
+Bu Kotlin tabanlı bir Atasözleri Uygulamasıdır. Kültür açısından faydalı olacaktır. Bu uygulama, JSON formatındaki Atasözleri API'sini kullanarak kullanıcılara farklı atasözleri sunar. İleri ve geri tuşlarına basarak farklı atasözlerini görüntüleyebilirsiniz. Ayrıca share butonu ile paylaşmanız da mümkün. 
 
 ## Kullanım
 
