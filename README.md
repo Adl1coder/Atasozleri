@@ -24,7 +24,7 @@ Uygulamayı başlatmak ve çalıştırmak için aşağıdaki adımları takip ed
 
 ## API Kullanımı
 
-Bu uygulama, Atasözleri API'sini kullanır. API isteği ve yanıtı JSON formatındadır, şu şekilde:
+Bu uygulama, Atasözleri API'sini kullanır. API isteği ve yanıtı JSON formatındadır, örneğin bir iki tanesi şu şekilde:
 
 ```json
 [
