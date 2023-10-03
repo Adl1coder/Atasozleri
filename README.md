@@ -11,6 +11,8 @@ Uygulamayı başlatmak ve çalıştırmak için aşağıdaki adımları takip ed
 3. Uygulamayı başlatın ve Atasözleri Uygulamasını çalıştırın.
 
 4. İleri ve geri tuşlarına basarak farklı atasözlerini görüntüleyin.
+   
+6. share butonu ile paylaşın.
 
 ## Ekran Görüntüsü:
    ![image](https://github.com/Adl1coder/Atasozleri/assets/93915867/b88d6ee4-4e24-4e8d-83d8-e3c9c923423c)
