@@ -15,7 +15,8 @@ Uygulamayı başlatmak ve çalıştırmak için aşağıdaki adımları takip ed
 6. share butonu ile paylaşın.
 
 ## Ekran Görüntüsü:
-   ![image](https://github.com/Adl1coder/Atasozleri/assets/93915867/b88d6ee4-4e24-4e8d-83d8-e3c9c923423c)
+![image](https://github.com/Adl1coder/Atasozleri/assets/93915867/b99ef435-f1cb-429e-91c8-061bf1b92798)
+
 
 
 ## API Kullanımı
